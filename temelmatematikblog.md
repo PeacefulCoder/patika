@@ -1,0 +1,3 @@
+# Matematik ve Makine Öğrenmesi
+
+Üniversiteden sonunda mezun olduk ... Aradan yıllar geçti... Her dönüp baktığımda bize neden havuz derslerini öğrettiler diye soruyordum ... Derkeeeen yıllar sonra veri bilimi karşıma çıktı.. Bir de ne göreyim.. Calculus, lineer cebir, istatistik meğer o gün yüzüne bakmadığım dersler bugün hayatımıza hızla giren yapay zeka kavramını anlamak için anahtar araçlarmış... İnanır mısınız şimdi iyi ki Calculus dersinden düşük not alıp ikinci kez almışım diyorum ... Kıssadan hisse ... Hiçbir bilgiyi önemsiz görmeyin derim... Bugün işinize yaramıyorsa da yarın başka bir konuyu anlamanız için çok değerli olabilir :)
